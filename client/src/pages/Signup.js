@@ -4,7 +4,7 @@ import API from "../utils/axios";
 import { AuthContext } from "../context/AuthContext";
 import FormWrapper from "../components/FormWrapper";
 
-export default function Register() {
+export default function Signup() {
     const { login } = useContext(AuthContext);
     const [ form, setForm ] = useState({ name: "", email: "", password: "" });
     const navigate = useNavigate();
