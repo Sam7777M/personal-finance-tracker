@@ -2,4 +2,4 @@
 # personal-finance-tracker
 
 Here are the ss
-![alt text](image.png)
+![alt text](client/public/Images/image.png)
